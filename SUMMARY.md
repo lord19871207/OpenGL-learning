@@ -14,5 +14,5 @@
 * [11.地形文件的生成](chapter11.md)
 * [12.分形，及其在OpenGL中的运用](chapter12.md)
 * [13.EGL详解](chapter13.md)
-* 14.对光线追踪算法的理解
+* [14.对光线追踪算法的理解](chapter14.md)
 
