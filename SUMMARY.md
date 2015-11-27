@@ -9,5 +9,5 @@
 * [6.着色器基础](chapter6.md)
 * [7.光照效果](chapter7.md)
 * [8.CPU与GPU的区别](chapter8.md)
-* 9.纹理相关的概念
+* [9.纹理相关的概念](chapter9.md)
 
