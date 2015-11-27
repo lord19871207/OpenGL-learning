@@ -12,5 +12,5 @@
 * [9.纹理相关的概念](chapter9.md)
 * [10.加载obj文件](chapter10.md)
 * [11.地形文件的生成](chapter11.md)
-* 12.分形，及其在OpenGL中的运用
+* [12.分形，及其在OpenGL中的运用](chapter12.md)
 
