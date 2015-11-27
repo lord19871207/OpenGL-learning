@@ -8,4 +8,5 @@
 * [5.图像本质的思考](chapter5.md)
 * [6.着色器基础](chapter6.md)
 * [7.光照效果](chapter7.md)
+* 8.CPU与GPU的区别
 
