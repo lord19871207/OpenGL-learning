@@ -6,5 +6,5 @@
 * [3.如何告诉屏幕我们要画什么](chapter3.md)
 * [4.OpenGL ES 2.0管线](chapter4.md)
 * [5.图像本质的思考](chapter5.md)
-* 6.着色器基础
+* [6.着色器基础](chapter6.md)
 
