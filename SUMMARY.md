@@ -13,4 +13,5 @@
 * [10.加载obj文件](chapter10.md)
 * [11.地形文件的生成](chapter11.md)
 * [12.分形，及其在OpenGL中的运用](chapter12.md)
+* 13.EGL详解
 
